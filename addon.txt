@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Robable Bank"
+	"version"			"1"
+	"author_name"		"CodeNil"
+	"info"				"Adds a robable bank and a banker job"
+	"override"			"0"
+}
